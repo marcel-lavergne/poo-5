@@ -6,6 +6,7 @@ require_once 'Truck.php';
 require_once 'MotorWay.php';
 require_once 'PedestrianWay.php';
 require_once 'ResidentialWay.php';
+require_once 'LightableInterface.php';
 
 
 $bicycle = new Bicycle('blue', 1);
